@@ -1,3 +1,3 @@
 # project-ideas
 
-- battle.net-style chat for IRC. all channels user is joined appears in one channel. 
+- battle.net-style chat for IRC. all channels user is in appears in one chat area at once. 
